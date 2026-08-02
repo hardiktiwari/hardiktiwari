@@ -3,7 +3,7 @@
 Principal Product Manager, and AI builder at Intuit. Currently building autonomous tax savings agents at Intuit and multiplayer AI tools for open source projects
 
 
-[LinkedIn](https://www.linkedin.com/in/hardik-tiwari/) · [Writing](https://medium.com/@hardiktiwari) · [tiwari.hardik36@gmail.com](mailto:tiwari.hardik36@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/hardik-tiwari/) · [Writing][(https://medium.com/@hardiktiwari)](https://medium.com/@tiwari.hardik36) · [tiwari.hardik36@gmail.com](mailto:tiwari.hardik36@gmail.com)
 
 ---
 
