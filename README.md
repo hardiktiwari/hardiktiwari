@@ -3,7 +3,7 @@
 Principal Product Manager, and AI builder at Intuit. Currently building autonomous tax savings agents at Intuit and multiplayer AI tools for open source projects
 
 
-[LinkedIn](https://www.linkedin.com/in/hardik-tiwari/) · [Writing][(https://medium.com/@hardiktiwari)](https://medium.com/@tiwari.hardik36) · [tiwari.hardik36@gmail.com](mailto:tiwari.hardik36@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/hardik-tiwari/) · [Writing](https://medium.com/@tiwari.hardik36) · [tiwari.hardik36@gmail.com](mailto:tiwari.hardik36@gmail.com)
 
 ---
 
@@ -71,10 +71,22 @@ Daily hill-climbing loop over product-detail-page copy on live stores: `observe 
 
 ---
 
-## Talks and writing
+## Talks
 
-- **[Building Your Team's Context Graph](https://github.com/hardiktiwari/building-your-teams-context-graph)** — talk delivered at SAP, published as an interactive deck.
-- **[Giving AI Your Context](https://medium.com/@hardiktiwari)** — two-part series on context systems and self-updating knowledge bases.
+- **[Building Your Team's Context Graph](https://github.com/hardiktiwari/building-your-teams-context-graph)** — delivered at SAP, published as an interactive deck.
 
----
+## Writing
 
+Full archive: [medium.com/@tiwari.hardik36](https://medium.com/@tiwari.hardik36)
+
+**PM OS series** — context systems for AI-assisted product work
+
+- [PM OS: Giving AI the Context Product Teams Already Have](https://medium.com/@tiwari.hardik36/pm-os-giving-ai-the-context-product-teams-already-have-2b3adf9790ca) · Mar 2026
+- [Building a Self-Updating Knowledge Base for your PM OS](https://medium.com/design-bootcamp/building-a-self-updating-knowledge-base-for-your-pm-os-95fd082e2515) · Apr 2026 · *Design Bootcamp*
+
+**Selected essays**
+
+- [Copilots in Modern SaaS: Simplifying User Journeys with AI](https://medium.com/@tiwari.hardik36/copilots-in-modern-saas-simplifying-user-journeys-with-ai-5d21d0b237e4) · Jun 2024
+- [Shopify and embedded fintech stack](https://medium.com/fintech-kellogg/shopify-and-embedded-fintech-stack-412351ccd2b1) · Sep 2020 · *Fintech Kellogg*
+- [The technology decade that went by](https://medium.com/@tiwari.hardik36/the-technology-decade-that-went-by-db0f0329487a) · Dec 2019
+- [Memo on Snapchat Spectacles](https://medium.com/@tiwari.hardik36/memo-on-snapchat-spectacles-4e41b72b545e) · Nov 2019
