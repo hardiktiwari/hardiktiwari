@@ -1,6 +1,6 @@
 # Hardik Tiwari
 
-Principal Product Manager, TurboTax Small Business at Intuit. 9+ years deploying AI products to SMB and enterprise customers — from human-in-the-loop NLP extraction at DRAUP to long-horizon LLM agents at Intuit. Hands-on with the agent stack: orchestration, tool calling, offline evaluation, and human-in-the-loop guardrails.
+Principal Product Manager, and AI builder at Intuit. 9+ years deploying AI products to SMB and enterprise customers — from human-in-the-loop NLP extraction at DRAUP to long-horizon LLM agents at Intuit. Hands-on with the agent stack: orchestration, tool calling, offline evaluation, and human-in-the-loop guardrails.
 
 Kellogg School of Management MBA (Northwestern). B.E., BITS Pilani.
 
@@ -81,11 +81,3 @@ Daily hill-climbing loop over product-detail-page copy on live stores: `observe 
 
 ---
 
-## Also building
-
-- **[Otira](https://github.com/hardiktiwari/otira)** — AI coworkers for SMBs delivered through forward-deployed implementations.
-- **[better_slido](https://github.com/hardiktiwari/better_slido)** — open-source presentation coworker; draft slides beside an always-on agent with block-level comments and accept/reject edits.
-
----
-
-Open to Principal and Staff product roles where agents are the product surface. San Francisco Bay Area or remote.
