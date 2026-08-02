@@ -1,8 +1,7 @@
 # Hardik Tiwari
 
-Principal Product Manager, and AI builder at Intuit. 9+ years deploying AI products to SMB and enterprise customers — from human-in-the-loop NLP extraction at DRAUP to long-horizon LLM agents at Intuit. Hands-on with the agent stack: orchestration, tool calling, offline evaluation, and human-in-the-loop guardrails.
+Principal Product Manager, and AI builder at Intuit. Currently building autonomous tax savings agents at Intuit and multiplayer AI tools for open source projects
 
-Kellogg School of Management MBA (Northwestern). B.E., BITS Pilani.
 
 [LinkedIn](https://www.linkedin.com/in/hardik-tiwari/) · [Writing](https://medium.com/@hardiktiwari) · [tiwari.hardik36@gmail.com](mailto:tiwari.hardik36@gmail.com)
 
@@ -23,7 +22,7 @@ An operating system for PMs running on Cursor and Claude Code. Supplies the mode
 - Continual-learning loop that extracts corrections from conversation transcripts and rewrites the agent persona
 - Semantic recall over the knowledge base for retrieval across historical decisions
 
-### Pip — ambient AI coworker across Slack, desktop, and browser
+### Pip — ambient AI harness that enables AI coworker across Slack, desktop, and browser
 
 [`PIP-`](https://github.com/hardiktiwari/PIP-) · [site](https://hardiktiwari.github.io/tandem-site/)
 
@@ -54,10 +53,8 @@ Daily hill-climbing loop over product-detail-page copy on live stores: `observe 
 |---|---|---|---|
 | Year-end close and books-to-tax automation | Intuit | Long-horizon LLM agents with human-in-the-loop; offline evaluation against historical filings | Tax prep time reduced **99.6%** (5 days → 30 min) |
 | Tax Savings agent | Intuit | Agent-first, always-on SMB tax planning | Unlocked **$5B+ TAM** |
-| Expert 365 Business | Intuit | AI + human-in-the-loop tax optimization, concept to market | **$10M+ revenue**, 5,000+ customers |
 | Expert matchmaking service | QuickBooks Live | Contextual-bandit policy over expert–customer pairing | **+10 pts NPS**, +1pp 90-day retention |
 | NLP extraction and classification | DRAUP | Human-in-loop labeling workflows and model evals | **+50% model accuracy**, +30% deployment efficiency |
-| Wi-Fi diagnosis for Oculus | Meta | Wi-Fi mapping fused with in-VR overlays for dead-zone localization | **~10%** improvement in session completion |
 
 ---
 
