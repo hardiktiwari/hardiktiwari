@@ -58,18 +58,6 @@ Daily hill-climbing loop over product-detail-page copy on live stores: `observe 
 
 ---
 
-## Experience
-
-| Role | Organization | Period | Scope |
-|---|---|---|---|
-| Principal Product Manager, TurboTax Small Business | Intuit | 2023–present | Tax platform serving 36M+ small business owners |
-| Product Manager, Meta Connectivity | Meta | 2022 | Connectivity diagnostics for Oculus and FB app |
-| Product Manager, QuickBooks Live | Intuit | 2021–2022 | AI+HI bookkeeping service; grew 200%+ in FY22 |
-| Head of Product, founding team | WareIQ (YC S20) | 2018–2020 | Led 10 engineers; MVP to 50+ SMB customers, 50,000 orders/month |
-| Director of Product | DRAUP | 2016–2018 | Led 25+ eng/DS; concept to $5M ARR; first 10 Fortune-500 logos |
-| Engagement Manager | Zinnov | 2013–2016 | Workforce globalization and digital transformation advisory |
-
----
 
 ## Talks
 
